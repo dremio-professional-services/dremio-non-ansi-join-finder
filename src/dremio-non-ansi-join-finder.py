@@ -121,3 +121,4 @@ if __name__ == "__main__":
     output_file = args.output_file
     error_file = args.error_file
 
+    main()
